@@ -16,17 +16,7 @@ AtulKumar
 
 A hard working guy who enjoys good humour & coding.😉😉
 
-Profiencies
 
 
 
-
-Atul's GitHub stats
-
-GitHub Streak
-
-Top Langs
-
-☕ Let's Connect
-meeramendhe       meeramendhe       meeramendhe      
 
