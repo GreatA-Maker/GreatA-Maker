@@ -1,16 +1,32 @@
-### Hi there 👋
+Hi there 👋
+Glad To See You Here! ✨
 
-<!--
-**GreatA-Maker/GreatA-Maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 What do I do?
 
-Here are some ideas to get you started:
+✔️ A problem Solver and I aspire to work as a programmer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
+
+Hi, I am Full Stack Web Developer skilled in React, Javascript, Material-UI, CSS, HTML,Express js , Node.js, MongoDB and Data Structures and Algorithm.
+
+Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer
+
+AtulKumar
+⚡ One line that describes me best?
+
+A hard working guy who enjoys good humour & coding.😉😉
+
+Profiencies
+
+
+
+
+Atul's GitHub stats
+
+GitHub Streak
+
+Top Langs
+
+☕ Let's Connect
+meeramendhe       meeramendhe       meeramendhe      
+
