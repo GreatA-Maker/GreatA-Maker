@@ -123,6 +123,8 @@
 <div>
   
 ---
+![Atul's github activity graph](https://activity-graph.herokuapp.com/graph?username=GreatA-Maker&theme=react-dark)	
+---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -130,6 +132,8 @@
 <a href="https://linkedin.com/in/atul-11-kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul-11-kumar/" height="30" width="40" /></a>
 </p>
   
+	
+
   
 
 
