@@ -117,8 +117,8 @@
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GreatA-Maker&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=fad000" alt="Atulkumar GitHub Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GreatA-Maker&count_private=true&theme=dark" alt="GreatA-Maker" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=GreatA-Maker&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=fad000" alt="Atulkumar GitHub Stats">
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=GreatA-Maker&count_private=true&theme=dark" alt="GreatA-Maker" />
 <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreatA-Maker&count_private=true&theme=dark" alt="GreatA-Maker" />
 <div>
   
