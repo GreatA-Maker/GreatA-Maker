@@ -2,6 +2,8 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=206F92&width=435&lines=FULL+STACK+WEB+DEVELOPER;MERN+DEVELOPER)](https://git.io/typing-svg)
+
 
 ## I'm a Computer Science and Engineering Student  
 
