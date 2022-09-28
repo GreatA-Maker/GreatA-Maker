@@ -1,8 +1,6 @@
 # Hi there, I'm Atul Kumar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=206F92&width=435&lines=FULL+STACK+WEB+DEVELOPER;MERN+DEVELOPER)](https://git.io/typing-svg)
-</p>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
