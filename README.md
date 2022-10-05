@@ -1,4 +1,4 @@
-# Hi there, I'm Atul Kumar <img src="https://gifdb.com/images/thumbnail/waving-hi-emoji-kgx9r6xzqszhj2rq.gif" width="30px">
+# Hi there, I'm Atul Kumar <img src="https://gifdb.com/images/thumbnail/waving-hi-emoji-kgx9r6xzqszhj2rq.gif" width="50px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=206F92&width=600&lines=FULL+STACK+WEB+DEVELOPER;MERN+DEVELOPER)](https://git.io/typing-svg)
 
