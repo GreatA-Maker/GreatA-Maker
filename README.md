@@ -6,7 +6,7 @@
 
 ## I'm a Computer Science and Engineering Student
 
-- 👨‍💻 I’mm currently working on web development technologies like JavaScript, React and MongDB.
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React and MongDB.
 - 📚 I’m currently learning about Frontend and Backend technologies. 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play cricket and video-games. 🎮
