@@ -7,8 +7,8 @@
 ## I'm a Computer Science and Engineering Student
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React and MongDB.
-- 📚 Hoobies are to learn About new Technologies and AutoMotives. 
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 📚 Deep Interest in new Technologies 🛰️ and AutoMotives. 🚘
+- 💪🏼 Motivation: Learn more technologies - Never stop creating new ideas. 
 - ⚡ Fun fact: I love to play cricket and video-games.🎮
 
 ---
