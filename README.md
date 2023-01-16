@@ -9,7 +9,7 @@
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React and MongDB.
 - 📚 Deep Interest in new Technologies 🛰️ and AutoMotives. 🚘
 - 💪🏼 Motivation: Learn more technologies - Never stop creating new ideas. 
-- ⚡ Fun fact: I love to play cricket and video-games.🎮
+- ⚡ Fun fact: I love to play Cricket and Video-games.🎮
 
 ---
 
